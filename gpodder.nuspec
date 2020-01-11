@@ -17,6 +17,7 @@
     <mailingListUrl>https://www.freelists.org/list/gpodder</mailingListUrl>
     <bugTrackerUrl>https://github.com/gpodder/gpodder/issues</bugTrackerUrl>
     <tags>gpodder podcast podcatcher</tags>
+    <releaseNotes>https://github.com/gpodder/gpodder/releases</releaseNotes>
     <summary>Media aggregator and podcast client</summary>
     <description>gPodder is a simple, open source podcast client written in Python using GTK+. In development since 2005 with a proven, mature codebase.</description>
   </metadata>

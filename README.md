@@ -3,6 +3,7 @@
 Idea of this Package is to enable an installation of the gpodder application with [chocolatey](https://chocolatey.org).
 
 ## Testing and Updating
+
 Current checking or updating is done manually. In later Version the au module will be evaluated.
 
 ## Testing Instructions
