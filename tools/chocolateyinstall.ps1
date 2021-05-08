@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference  = 'Stop';
 #$toolsDir               = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$url                    = 'https://github.com/gpodder/gpodder/releases/download/3.10.16/windows-gpodder-3.10.16-installer.exe'
+$url                    = 'https://github.com/gpodder/gpodder/releases/download/3.10.19/windows-gpodder-3.10.19-installer.exe'
 $softwareName           = 'gPodder'
 $silentArgs             = "/S"
 $validExitCodes         = @(0)
@@ -14,7 +14,7 @@ $packageArgs = @{
 
   softwareName          = "$softwareName*"
 
-  checksum              = 'c4fb996064418b441860c26a94a87b7498de9d51eb8d9eca681e0420c05ebd66'
+  checksum              = 'c701270f294e1da62eaee7fdbf5b00bc1f81fe4a0db5e1b2eeccdd7337ffc178'
   checksumType          = 'sha256'
   silentArgs            = $silentArgs
   validExitCodes        = $validExitCodes
