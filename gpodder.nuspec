@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>gpodder</id>
-    <version>3.11.1</version>
+    <version>3.11.2</version>
     <packageSourceUrl>https://github.com/suspect22/chocolatey-gpodder</packageSourceUrl>
     <owners>suspect22</owners>
     <title>gpodder (Install)</title>
     <authors>The gPodder Team</authors>
     <projectUrl>https://gpodder.github.io/</projectUrl>
     <iconUrl>https://github.com/gpodder/gpodder.github.io/raw/master/gpodder.png</iconUrl>
-    <copyright>Copyright 2005-2018 The gPodder Team</copyright>
+    <copyright>Copyright 2005-2023 The gPodder Team</copyright>
     <licenseUrl>https://github.com/gpodder/gpodder/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/gpodder/gpodder</projectSourceUrl>
